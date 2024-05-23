@@ -1,0 +1,347 @@
+{
+  "users": [
+    {
+      "name": "alaa amkedh2",
+      "email": "ahd5@gmail.com",
+      "phone": "0956368284",
+      "password": "00000000000",
+      "id": "1"
+    },
+    {
+      "name": "ahd user 1234",
+      "email": "ahdmkedh855@gmailo.com",
+      "phone": "0956368284",
+      "password": "123456123",
+      "id": "2"
+    },
+    {
+      "name": "ahd user 1234",
+      "email": "ahdmkedh855@gmailo.com",
+      "phone": "0956368284",
+      "password": "123456123",
+      "id": "3"
+    },
+    {
+      "name": "ahd mkedh11",
+      "email": "ahdmasd@gmail.com",
+      "phone": "09523214851",
+      "password": "12354654897498",
+      "id": "fc27"
+    }
+  ],
+  "fuel": [
+    {
+      "name": " بنزين سوبر 98",
+      "prod": "فيول",
+      "decs": "بنزين ذو جودة عالية ونقاء عالي يستخدم في المركبات عالية الأداء.",
+      "use": "يستخدم عادة في السيارات الرياضية والسيارات ذات المحركات الكبيرة.",
+      "prop": " يحتوي على نسبة أوكتان تتجاوز 98%.",
+      "price": "2.15",
+      "id": "1"
+    },
+    {
+      "name": " بنزين خالي من الرصاص 95",
+      "prod": "فيول",
+      "decs": "بنزين منخفض الكوثر يستخدم في معظم المركبات العادية.",
+      "use": "يستخدم عادة في السيارات العائلية والسيارات الاقتصادية.",
+      "prop": "لا يحتوي على الرصاص ويعتبر أكثر صديقة للبيئة.",
+      "price": "3.22",
+      "id": "2"
+    },
+    {
+      "name": "بنزين ديزل",
+      "prod": "فيول",
+      "decs": "وقود ثقيل يستخدم في المركبات التجارية والشاحنات والحافلات.",
+      "use": " يستخدم في المحركات ذات الاحتراق الداخلي التي تعمل بوقود الديزل.",
+      "prop": "لديه قوة دافعة عالية وفعالية في استهلاك الوقود.",
+      "price": "3.10",
+      "id": "3"
+    },
+    {
+      "name": "بنزين غاز البترول المسال (بنزين جي إل بي)",
+      "prod": "فيول",
+      "decs": "مزيج من البوتان والبنتان والبروبان، وهو خفيف الوزن ويتبخر بسهولة.",
+      "use": "يستخدم عادة كوقود للشواء والتدفئة المحمولة.",
+      "prop": "يحتوي على مزيج من الهيدروكربونات المشتقة من النفط الخام.",
+      "price": "3.19",
+      "id": "4"
+    }
+  ],
+  "oil": [
+    {
+      "name": "زيت محرك هيليكس ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-poster-ads-with-editable-text-canister-package-splashes-drops-engine-oil-illustration_1284-29513.jpg?t=st=1714757854~exp=1714761454~hmac=8528f4092737472b2cc940fb23cd104441654e37a867c1a450374092590075a1&w=740",
+      "price": "20",
+      "weight": "1 ليتر",
+      "brand": "شيل",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "1"
+    },
+    {
+      "name": "زيت محرك جازولين  ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+      "price": "30",
+      "weight": "2 ليتر",
+      "brand": "بترونايز",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "2"
+    },
+    {
+      "name": "زيت محرك هيليكس ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-poster-ads-with-editable-text-canister-package-splashes-drops-engine-oil-illustration_1284-29513.jpg?t=st=1714757854~exp=1714761454~hmac=8528f4092737472b2cc940fb23cd104441654e37a867c1a450374092590075a1&w=740",
+      "price": "20",
+      "weight": "1 ليتر",
+      "brand": "شيل",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "3"
+    },
+    {
+      "name": "زيت محرك جازولين  ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+      "price": "30",
+      "weight": "2 ليتر",
+      "brand": "بترونايز",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "4"
+    },
+    {
+      "name": "زيت محرك جازولين  ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-poster-ads-with-editable-text-canister-package-splashes-drops-engine-oil-illustration_1284-29513.jpg?t=st=1714757854~exp=1714761454~hmac=8528f4092737472b2cc940fb23cd104441654e37a867c1a450374092590075a1&w=740",
+      "price": "30",
+      "weight": "2 ليتر",
+      "brand": "بترونايز",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "5"
+    },
+    {
+      "name": "زيت محرك جازولين  ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+      "price": "30",
+      "weight": "2 ليتر",
+      "brand": "بترونايز",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "6"
+    },
+    {
+      "name": "زيت محرك جازولين  ",
+      "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+      "price": "30",
+      "weight": "2 ليتر",
+      "brand": "بترونايز",
+      "service_type": "سيارة",
+      "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+      "id": "7"
+    }
+  ],
+  "service": [
+    {
+      "name": "وقود",
+      "src": "https://images.unsplash.com/photo-1643741132132-4466f64e1f54?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "WO",
+      "id": "1"
+    },
+    {
+      "name": "شد سيارة",
+      "src": "https://images.pexels.com/photos/4665714/pexels-photo-4665714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rout": "SH",
+      "id": "2"
+    },
+    {
+      "name": "كومجي",
+      "src": "https://images.unsplash.com/photo-1643741132132-4466f64e1f54?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "KO",
+      "id": "3"
+    },
+    {
+      "name": "غسيل",
+      "src": "https://plus.unsplash.com/premium_photo-1661717357358-67ae75ca57cd?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "GH",
+      "id": "4"
+    },
+    {
+      "name": "تبديل زيت",
+      "src": "https://images.pexels.com/photos/5233285/pexels-photo-5233285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rout": "TZ",
+      "id": "5"
+    },
+    {
+      "name": "عزيل",
+      "src": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "AZ",
+      "id": "6"
+    },
+    {
+      "name": "فحص كامل",
+      "src": "https://media.istockphoto.com/id/1193707522/photo/senior-supervisor-at-a-garage-checking-a-list-on-clipboard.jpg?s=612x612&w=0&k=20&c=KVGJ4KMF0AzLROrjl4esPG3IFUt8J_imfRLQInHuNLo=",
+      "rout": "FK",
+      "id": "7"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "quantity": "زيت محرك جازولين  ",
+      "product": {}
+    }
+  ],
+  "service2": [
+    {
+      "name": "وقود",
+      "src": "https://images.unsplash.com/photo-1643741132132-4466f64e1f54?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "WO",
+      "product": [
+        {
+          "name": " بنزين سوبر 98",
+          "prod": "فيول",
+          "decs": "بنزين ذو جودة عالية ونقاء عالي يستخدم في المركبات عالية الأداء.",
+          "use": "يستخدم عادة في السيارات الرياضية والسيارات ذات المحركات الكبيرة.",
+          "prop": " يحتوي على نسبة أوكتان تتجاوز 98%.",
+          "price": "2.15",
+          "id": "1"
+        },
+        {
+          "name": " بنزين خالي من الرصاص 95",
+          "prod": "فيول",
+          "decs": "بنزين منخفض الكوثر يستخدم في معظم المركبات العادية.",
+          "use": "يستخدم عادة في السيارات العائلية والسيارات الاقتصادية.",
+          "prop": "لا يحتوي على الرصاص ويعتبر أكثر صديقة للبيئة.",
+          "price": "3.22",
+          "id": "2"
+        },
+        {
+          "name": "بنزين ديزل",
+          "prod": "فيول",
+          "decs": "وقود ثقيل يستخدم في المركبات التجارية والشاحنات والحافلات.",
+          "use": " يستخدم في المحركات ذات الاحتراق الداخلي التي تعمل بوقود الديزل.",
+          "prop": "لديه قوة دافعة عالية وفعالية في استهلاك الوقود.",
+          "price": "3.10",
+          "id": "3"
+        },
+        {
+          "name": "بنزين غاز البترول المسال (بنزين جي إل بي)",
+          "prod": "فيول",
+          "decs": "مزيج من البوتان والبنتان والبروبان، وهو خفيف الوزن ويتبخر بسهولة.",
+          "use": "يستخدم عادة كوقود للشواء والتدفئة المحمولة.",
+          "prop": "يحتوي على مزيج من الهيدروكربونات المشتقة من النفط الخام.",
+          "price": "3.19",
+          "id": "4"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "name": "تبديل زيت",
+      "src": "https://images.pexels.com/photos/5233285/pexels-photo-5233285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rout": "TZ",
+      "product": [
+        {
+          "name": "زيت محرك هيليكس ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-poster-ads-with-editable-text-canister-package-splashes-drops-engine-oil-illustration_1284-29513.jpg?t=st=1714757854~exp=1714761454~hmac=8528f4092737472b2cc940fb23cd104441654e37a867c1a450374092590075a1&w=740",
+          "price": "20",
+          "weight": "1 ليتر",
+          "brand": "شيل",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "1"
+        },
+        {
+          "name": "زيت محرك جازولين  ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+          "price": "30",
+          "weight": "2 ليتر",
+          "brand": "بترونايز",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "2"
+        },
+        {
+          "name": "زيت محرك هيليكس ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-poster-ads-with-editable-text-canister-package-splashes-drops-engine-oil-illustration_1284-29513.jpg?t=st=1714757854~exp=1714761454~hmac=8528f4092737472b2cc940fb23cd104441654e37a867c1a450374092590075a1&w=740",
+          "price": "20",
+          "weight": "1 ليتر",
+          "brand": "شيل",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "3"
+        },
+        {
+          "name": "زيت محرك جازولين  ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+          "price": "30",
+          "weight": "2 ليتر",
+          "brand": "بترونايز",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "4"
+        },
+        {
+          "name": "زيت محرك جازولين  ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-poster-ads-with-editable-text-canister-package-splashes-drops-engine-oil-illustration_1284-29513.jpg?t=st=1714757854~exp=1714761454~hmac=8528f4092737472b2cc940fb23cd104441654e37a867c1a450374092590075a1&w=740",
+          "price": "30",
+          "weight": "2 ليتر",
+          "brand": "بترونايز",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "5"
+        },
+        {
+          "name": "زيت محرك جازولين  ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+          "price": "30",
+          "weight": "2 ليتر",
+          "brand": "بترونايز",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "6"
+        },
+        {
+          "name": "زيت محرك جازولين  ",
+          "src": "https://img.freepik.com/free-vector/realistic-motor-oil-car-silhouette-ads-background-with-editable-text-composition-product-package-images-illustration_1284-29511.jpg?w=1060&t=st=1714757774~exp=1714758374~hmac=7af5887629718f080951377517f51a3bfcad17cb26db05a8f725bd3f4edbaae0",
+          "price": "30",
+          "weight": "2 ليتر",
+          "brand": "بترونايز",
+          "service_type": "سيارة",
+          "description": "يساعد على الحماية من التآكل وتحييد تأثير أحماض الاحتراق المسببة للتآكل، رقم قاعدة إجمالي مرتفع (تي بي ان) للمساعدة في محاربة الاهتراء والمساعدة في منع الإضرار بالمحرك وإطالة عمره الافتراضييساعد على إزالة الترسبات من المحركات المتسخة",
+          "id": "7"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "name": "شد سيارة",
+      "src": "https://images.pexels.com/photos/4665714/pexels-photo-4665714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "rout": "SH",
+      "id": "3"
+    },
+    {
+      "name": "كومجي",
+      "src": "https://images.unsplash.com/photo-1643741132132-4466f64e1f54?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "KO",
+      "id": "4"
+    },
+    {
+      "name": "غسيل",
+      "src": "https://plus.unsplash.com/premium_photo-1661717357358-67ae75ca57cd?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "GH",
+      "id": "5"
+    },
+    {
+      "name": "عزيل",
+      "src": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rout": "AZ",
+      "id": "6"
+    },
+    {
+      "name": "فحص كامل",
+      "src": "https://media.istockphoto.com/id/1193707522/photo/senior-supervisor-at-a-garage-checking-a-list-on-clipboard.jpg?s=612x612&w=0&k=20&c=KVGJ4KMF0AzLROrjl4esPG3IFUt8J_imfRLQInHuNLo=",
+      "rout": "FK",
+      "id": "7"
+    }
+  ]
+}
